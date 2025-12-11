@@ -1,44 +1,25 @@
-# vCard - Personal portfolio
+# Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This is my personal portfolio website, built using **HTML, CSS, and JavaScript**.  
+It showcases my skills, experience, and projects as a Software Engineer, Web Developer, and Blockchain Developer.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+This project is based on the original **vCard template** created by  
+**[@codewithsadee](https://github.com/codewithsadee)** — all design credit goes to him.  
+I customized and modified the template to fit my personal branding and content.
 
-## Demo
+## Features
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- Fully responsive design  
+- Clean and modern UI  
+- Sections for About, Skills, Experience, and Projects  
+- Smooth animations and easy navigation  
 
-## Prerequisites
+## Acknowledgement
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+Special thanks to **CodeWithSadee** for providing the original open-source template.  
+You can find the source project here:  
+https://github.com/codewithsadee/vcard-personal-portfolio
 
 ## License
 
-MIT
+This project follows the original MIT license.
